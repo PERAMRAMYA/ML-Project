@@ -3,7 +3,7 @@ Course Info: CS 5710 & CRN 13469
 ---
 ---
 
-we have some of the functions in our project 
+These are the  some  functions and topics we have used  in our project 
 - [tkinter](https://docs.python.org/3/library/tkinter.html)
 - [tkinterplace](https://www.tutorialspoint.com/python/tk_place.html)
 - [tkinterentry](https://www.tutorialspoint.com/python/tk_entry.htm)
